@@ -38,3 +38,4 @@ match operation:
         print(output)
     case _:
         print ("You did not input a valid operation!")
+print("All Done!")
